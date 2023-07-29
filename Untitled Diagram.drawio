@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T23:11:12.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AaE1YDPxoqMVDS64uJLj" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T23:16:02.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="K_MUI4mSkFfsLxrrdFgh" version="21.6.6" type="github">
   <diagram name="Page-1" id="dpHrziN7iInBP1G3Hoh1">
-    <mxGraphModel dx="1650" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2317" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,6 +221,9 @@
         </mxCell>
         <mxCell id="XW2PdBVg0nFlIH_IAWjY-7" value="Has" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rotation=-41;" vertex="1" parent="1">
           <mxGeometry x="530" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XW2PdBVg0nFlIH_IAWjY-12" value="Tags represent the requirements in the dataset. they can be represented as multi-valued attributes." style="shape=note;size=20;gradientColor=none;strokeColor=default;align=left;fontStyle=2;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=top;fontSize=8;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="804" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
