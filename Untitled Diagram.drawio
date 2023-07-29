@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T23:08:36.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="36L2quCXb7f-fXNVwt0Q" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T23:11:12.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AaE1YDPxoqMVDS64uJLj" version="21.6.6" type="github">
   <diagram name="Page-1" id="dpHrziN7iInBP1G3Hoh1">
-    <mxGraphModel dx="2806" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1650" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,7 +182,7 @@
             <mxPoint x="-3" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ScXYiewNh22zqdp0svSO-27" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="ScXYiewNh22zqdp0svSO-27" value="Has" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XW2PdBVg0nFlIH_IAWjY-1" value="Make" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rotation=25;" vertex="1" parent="1">
